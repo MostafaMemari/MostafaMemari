@@ -1,3 +1,7 @@
+<a>
+  <img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/banner.gif?raw=true" width="100%"/>
+</a>
+----
 <h2>Hi There! I'm Mostafa Memari ✌️</h2>
 
 <h3>👨‍💻&nbsp;About Me</h3>
