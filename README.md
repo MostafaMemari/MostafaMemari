@@ -1,13 +1,15 @@
 <a>
   <img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/banner.gif?raw=true" width="100%"/>
 </a>
+
 ----
+
 <h2>Hi There! I'm Mostafa Memari ✌️</h2>
 
 <h3>👨‍💻&nbsp;About Me</h3>
 
 - 🎓&nbsp;Bachelor Of Science In Computer Engineering
-- 🙌&nbsp;Coding And Drinking Coffee Are My HapWpygit
+- 🙌&nbsp;Coding And Drinking Coffee Are My Happy
 - 🏫&nbsp;I'm Learning NodeJS
 
 <h3>⚙️&nbsp;Tech Stack</h3>
