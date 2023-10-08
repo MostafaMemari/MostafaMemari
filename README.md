@@ -32,9 +32,9 @@
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/MostafaMemari/">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaMemari&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MostafaMemari&show_icons=true&theme=dark" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMemari&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMemari&theme=dark" />
 </a>
 
 <h2>📞 &nbsp; Connct Me </h2>
