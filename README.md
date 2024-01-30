@@ -40,15 +40,5 @@
   </span>
 
 
-<h2>📞 &nbsp; Connct Me </h2>
-<!--
-<p align="center">
-  <a href="https://instagram.com/mostafa_memari/">
-    <img src="https://img.shields.io/badge/Instagram-@Mostafa_Memari-red?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/mostafa_memari/">
-    <img src="https://img.shields.io/badge/Telegram-@mostafamemari-blue?style=flat&logo=telegram" />
-  </a>
-</p>
--->
-<br />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
