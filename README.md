@@ -1,9 +1,5 @@
-<a>
-  <img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/banner.gif?raw=true" width="100%"/>
-</a>
-
-----
-
+<img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/banner.gif?raw=true" width="100%"/>
+<img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/gradient-line.gif" width="100%"/>
 <h2>Hi There! I'm Mostafa Memari ✌️</h2>
 
 <h3>👨‍💻&nbsp;About Me</h3>
@@ -34,10 +30,16 @@
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 
-<span>  <img src="https://github-readme-stats.vercel.app/api?username=MostafaMemari&show_icons=true&theme=dark" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMemari&theme=dark" />
-  </span>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MostafaMemari&show_icons=true&theme=tokyonight&line_height=40">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMemari&theme=tokyonight">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaMemari&show_icons=true&locale=en&theme=tokyonight&line_height=20&layout=compact" />
+</p>
+
+<p align = "center">
+  
+</p>
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%205%20mins-blue)
