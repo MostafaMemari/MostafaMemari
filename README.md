@@ -10,15 +10,15 @@
 
 <h3>⚙️&nbsp;Tech Stack</h3>
 
+<div align = "center">
+  
 ![javascript,typescript](https://skillicons.dev/icons?i=js,ts,nodejs,express)
 <br />
 ![javascript,typescript](https://skillicons.dev/icons?i=linux,docker,mongodb,mysql,redis)
-<br />
+</div>
+
 
 <h2>⚡️ &nbsp; Github Stats</h2>
-
-
-
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MostafaMemari&show_icons=true&theme=tokyonight&line_height=40">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMemari&theme=tokyonight">
