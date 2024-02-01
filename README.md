@@ -1,7 +1,7 @@
 <img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/javascript-banner.gif?raw=true" width="100%"/>
 <img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/gradient-line.gif" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BE6F7&background=FFFFFF00&random=false&width=443&lines=Hi+There!+I'm+Mostafa+Memari+%E2%9C%8C%EF%B8%8F;Welcome+To+My+github+Page)](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BE6F7&background=FFFFFF00&random=false&width=443&lines=Hi+There!+I'm+Mostafa+Memari+%E2%9C%8C%EF%B8%8F;Welcome+To+My+github+Page)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BE6F7&background=FFFFFF00&random=false&width=443&lines=Hi+There!+I'm+Mostafa+Memari+%E2%9C%8C%EF%B8%8F;Welcome+To+My+github+Page)](#)
 
 <h3>👨‍💻&nbsp;About Me</h3>
 
