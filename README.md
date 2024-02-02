@@ -29,7 +29,7 @@
 <p align = "center">
   
 </p>
-  
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2024%20mins-blue)
 
