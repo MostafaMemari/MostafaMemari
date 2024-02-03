@@ -30,7 +30,6 @@
   
 </p>
 
-  ![](./profile-3d-contrib/profile-green-animate.svg)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2050%20mins-blue)
 
@@ -85,3 +84,6 @@ Windows                  20 hrs 2 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+
+  ![](./profile-3d-contrib/profile-night-green.svg)
+
