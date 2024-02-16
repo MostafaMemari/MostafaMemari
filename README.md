@@ -31,7 +31,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
 📊 **This Week I Spent My Time On** 
 
