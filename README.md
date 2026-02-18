@@ -1,7 +1,7 @@
 <img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/javascript-banner.gif?raw=true" width="100%"/>
 <img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/gradient-line.gif" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BE6F7&background=FFFFFF00&random=false&width=600&lines=Hi+There!+I'm+Mostafa+Memari+%E2%9C%8C%EF%B8%8F;Full-stack+Developer+|+React+%26+Next.js+|+NestJS+%26+Express)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BE6F7&background=FFFFFF00&random=false&width=450&lines=Hi+There!+I'm+Mostafa+Memari+%E2%9C%8C%EF%B8%8F;Full+Stack+Developer+%E2%9D%A4%EF%B8%8F)](#)
 
 ---
 
