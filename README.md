@@ -64,7 +64,7 @@
   </a>
   <a href="https://t.me/mostafamemari" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>>
+  </a>
 </p>
 
 ---
