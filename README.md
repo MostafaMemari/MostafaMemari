@@ -8,7 +8,11 @@
 ### 👨‍💻 About Me
 - 🎓 Bachelor of Science in Computer Engineering  
 - ☕ Coffee + Coding = ❤️  
-- 💻 Full-stack developer: **Backend** → Node.js, NestJS, Express | **Frontend** → React, Next.js  
+- 💻 Full-stack developer:  
+  - **Frontend:** React, Next.js  
+  - **Backend:** Node.js, NestJS, Express  
+  - **Databases:** PostgreSQL, MySQL, Redis  
+- 📝 Programming Languages: JavaScript, TypeScript  
 - 📚 Always learning, always building  
 
 ---
@@ -26,14 +30,26 @@
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![Express](https://skillicons.dev/icons?i=express)
 
-**Database & DevOps**  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+**Databases & DevOps**  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
+**Languages**  
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+
 </div>
+
+---
+
+### 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaMemari&theme=radical&hide_border=true" width="60%" />
+</p>
 
 ---
 
@@ -46,13 +62,12 @@
   <a href="mailto:mostafamemari99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/mostafa_memari" target="_blank">
+  <a href="https://t.me/mostafamemari" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+  </a>>
 </p>
 
 ---
 
 ### 💬 Quote
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
