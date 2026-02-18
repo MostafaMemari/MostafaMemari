@@ -1,31 +1,58 @@
 <img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/javascript-banner.gif?raw=true" width="100%"/>
 <img src="https://github.com/MostafaMemari/MostafaMemari/blob/main/gradient-line.gif" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BE6F7&background=FFFFFF00&random=false&width=443&lines=Hi+There!+I'm+Mostafa+Memari+%E2%9C%8C%EF%B8%8F;Welcome+To+My+github+Page)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BE6F7&background=FFFFFF00&random=false&width=600&lines=Hi+There!+I'm+Mostafa+Memari+%E2%9C%8C%EF%B8%8F;Full-stack+Developer+|+React+%26+Next.js+|+NestJS+%26+Express)](#)
 
-<h3>👨‍💻&nbsp;About Me</h3>
+---
 
-- 🎓&nbsp;Bachelor Of Science In Computer Engineering
-- 🙌&nbsp;Coding And Drinking Coffee Are My Happy
-- 🏫&nbsp;I'm Learning NodeJS
+### 👨‍💻 About Me
+- 🎓 Bachelor of Science in Computer Engineering  
+- ☕ Coffee + Coding = ❤️  
+- 💻 Full-stack developer: **Backend** → Node.js, NestJS, Express | **Frontend** → React, Next.js  
+- 📚 Always learning, always building  
 
-<h3>⚙️&nbsp;Tech Stack</h3>
+---
 
-<div align = "center">
-  
-![javascript,typescript](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs)
-<br />
-![javascript,typescript](https://skillicons.dev/icons?i=linux,docker,mongodb,mysql,redis)
+### ⚡ Tech Stack
+
+<div align="center">
+
+**Frontend**  
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+
+**Backend**  
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Express](https://skillicons.dev/icons?i=express)
+
+**Database & DevOps**  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+
 </div>
 
-<h2>⚡️ &nbsp; Github Stats</h2>
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=MostafaMemari&show_icons=true&theme=tokyonight&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMemari&theme=tokyonight">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaMemari&show_icons=true&locale=en&theme=tokyonight&line_height=20&layout=compact" />
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/mostafa_memari_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:mostafamemari99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/mostafa_memari" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
-<p align = "center">
-  
-</p>
+---
+
+### 💬 Quote
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
